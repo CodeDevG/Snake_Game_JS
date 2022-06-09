@@ -1,0 +1,36 @@
+#gameContainer{
+
+    text-align: center;
+    margin-top: 4%;
+
+}
+#gameBoard{
+
+    border: 10px solid;
+    color:chocolate;
+
+}
+#score{
+
+    font-family: "Ink Free",sans-serif,monospace;
+    font-size: 80px;
+    color: darkred;
+
+}
+#ResetGame{
+    
+    font-family: "Ink Free",sans-serif,monospace;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: red;
+    font-weight: bold;
+    color: yellow;
+
+}
+#ResetGame:hover{
+    background-color: tomato;
+}
